@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/gofiber/fiber/v2 v2.52.4
-	github.com/google/uuid v1.5.0
+	github.com/google/uuid v1.6.0
 	github.com/hibiken/asynq v0.24.1
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
 )
