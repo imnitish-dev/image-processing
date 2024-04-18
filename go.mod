@@ -3,7 +3,7 @@ module github.com/qahta0/image-processing-service
 go 1.20
 
 require (
-	github.com/gofiber/fiber/v2 v2.52.1
+	github.com/gofiber/fiber/v2 v2.52.4
 	github.com/google/uuid v1.5.0
 	github.com/hibiken/asynq v0.24.1
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
@@ -27,5 +27,5 @@ require (
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	golang.org/x/sys v0.15.0 // indirect
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4 // indirect
-	google.golang.org/protobuf v1.26.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 )
